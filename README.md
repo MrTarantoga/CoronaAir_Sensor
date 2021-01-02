@@ -2,8 +2,6 @@
 
 Thsi is the platformIO project for creating as small sensor for getting data
 
-
-
 Use following sensors:
 
 - SGP 30

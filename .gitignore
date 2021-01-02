@@ -33,3 +33,4 @@
 
 # PlatformIO Flders
 .pio/*
+.vscode
